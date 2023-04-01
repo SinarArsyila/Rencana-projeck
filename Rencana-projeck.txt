@@ -1,0 +1,3 @@
+Ide-ide projeck yang akan di kembangkan yaitu:
+-Membuat projeck Robot hexagon berbasis servo untuk meyelamatkan korban bencana banjit dan sunami di Aceh.
+-Merancang alat PLTS berbasis Tracking untuk membantu masyarakat.
